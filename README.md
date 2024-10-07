@@ -3,11 +3,11 @@
 
 <div align="center"> 
   
-  <a href="https://www.linkedin.com/in/lucas-maclean-031205256/" target="_blank">
-    <img src="https://www.linkedin.com/in/giselly-souza-dev/" style="border-radius: 30px" target="_blank">
+  <a href="https://www.linkedin.com/in/giselly-souza-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a> 
-  <a href="https://lucasmaclean.vercel.app" target="_blank">
-     <img src="https://portifolio-giselly-souza.netlify.app/" target="_blank" />
+  <a href="https://portifolio-giselly-souza.netlify.app/"" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
  
