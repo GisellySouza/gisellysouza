@@ -1,10 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9F6D3&height=120&section=header"/>
-<img align="center" alt="Code Girl image" src="ai-generated-8775234_1280.webp"  width="300px"/>
-<img align="center" alt="Code Girl image" src="ai-generated-8775234_1280.webp"  width="300px"/>
+<div align="center">
+  <img align="center" alt="Code Girl image" src="ai-generated-8775234_1280.webp"  width="300px"/>
+</div>
 
-<img width=100%  scr="ai-generated-8775235_1280.webp"/>
-
-## Giselly Souza
+## Olá, sou Giselly Souza
 (  Javascript | Typescript | React JS | HTML | CSS ) 🚀
 - 👩‍💻 Desenvolvedora Full Steak em formação
 - 🎓 Estdante de na escola de Tecnologia DNC (https://www.escoladnc.com.br/)
