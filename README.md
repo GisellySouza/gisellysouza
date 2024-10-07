@@ -14,7 +14,7 @@
 <hr>
 
 <div align="center">
-  <h3>Main skills → Front-end</h3>
+  <h3>Habilidades</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,bootstrap)](https://skillicons.dev)
 </div>
@@ -24,7 +24,7 @@
 
 
 <div align="center">
-  <h3>My Programming tools</h3>
+  <h3>Minhas ferramentas de programação</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=postman,git,github,vercel,powershell,netlify,npm,vite,vscode)](https://skillicons.dev)
 </div>
