@@ -1,8 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9F6D3&height=120&section=header"/>
-
+<img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
 <img width=100%  scr="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png"/>
 
+## Giselly Souza
+(  Javascript | Typescript | React JS | HTML | CSS ) 🚀
+- 👩‍💻 Desenvolvedora Full Steak em formação
+- 🎓 Estdante de na escola de Tecnologia DNC (https://www.escoladnc.com.br/)
+- 🌐 Apaixonada por novos desafios!!
+- 💡 Adoro aprender coisas novas!
+  <br></br>
 
+  
+
+<div align="center">
+  
+[![Souza top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GisellySouza&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
 <div align="center"> 
   
   <a href="https://www.linkedin.com/in/giselly-souza-dev/" target="_blank">
